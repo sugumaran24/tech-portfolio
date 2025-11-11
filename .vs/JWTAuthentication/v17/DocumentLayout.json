@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajes\\Downloads\\JWTAuthentication\\JWTAuthentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0DD095-AF1D-4E73-A33F-170AB860907E}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\rajes\\downloads\\jwtauthentication\\jwtauthentication\\jwtauthentication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0DD095-AF1D-4E73-A33F-170AB860907E}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0DD095-AF1D-4E73-A33F-170AB860907E}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\rajes\\downloads\\jwtauthentication\\jwtauthentication\\jwtauthentication\\controllers\\carcasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0DD095-AF1D-4E73-A33F-170AB860907E}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\controllers\\carcasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0DD095-AF1D-4E73-A33F-170AB860907E}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\rajes\\downloads\\jwtauthentication\\jwtauthentication\\jwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B0DD095-AF1D-4E73-A33F-170AB860907E}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0DD095-AF1D-4E73-A33F-170AB860907E}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\rajes\\downloads\\jwtauthentication\\jwtauthentication\\jwtauthentication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0DD095-AF1D-4E73-A33F-170AB860907E}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0DD095-AF1D-4E73-A33F-170AB860907E}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\rajes\\downloads\\jwtauthentication\\jwtauthentication\\jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0DD095-AF1D-4E73-A33F-170AB860907E}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0DD095-AF1D-4E73-A33F-170AB860907E}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\rajes\\downloads\\jwtauthentication\\jwtauthentication\\jwtauthentication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B0DD095-AF1D-4E73-A33F-170AB860907E}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\rajes\\Downloads\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\rajes\\Downloads\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "JWTAuthentication\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T13:49:26.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rajes\\Downloads\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTAuthentication\\appsettings.json",
+              "ToolTip": "C:\\Users\\rajes\\Downloads\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication\\appsettings.json",
+              "RelativeToolTip": "JWTAuthentication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T11:21:09.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarcassController.cs",
+              "DocumentMoniker": "C:\\Users\\rajes\\Downloads\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication\\Controllers\\CarcassController.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Controllers\\CarcassController.cs",
+              "ToolTip": "C:\\Users\\rajes\\Downloads\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication\\Controllers\\CarcassController.cs",
+              "RelativeToolTip": "JWTAuthentication\\Controllers\\CarcassController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:52:48.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\rajes\\Downloads\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\rajes\\Downloads\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "JWTAuthentication\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwEEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:52:32.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\rajes\\Downloads\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication\\Startup.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Startup.cs",
+              "ToolTip": "C:\\Users\\rajes\\Downloads\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication\\Startup.cs",
+              "RelativeToolTip": "JWTAuthentication\\Startup.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAvwCEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:52:08.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajes\\Downloads\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication\\Program.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Program.cs",
+              "ToolTip": "C:\\Users\\rajes\\Downloads\\JWTAuthentication\\JWTAuthentication\\JWTAuthentication\\Program.cs",
+              "RelativeToolTip": "JWTAuthentication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T15:06:06.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.deps.json
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.runtimeconfig.json
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.runtimeconfig.dev.json
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.dll
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.pdb
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.csproj.AssemblyReference.cache
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.AssemblyInfoInputs.cache
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.AssemblyInfo.cs
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorAssemblyInfo.cache
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorAssemblyInfo.cs
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorTargetAssemblyInfo.cache
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.dll
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.pdb
+C:\Users\rajes\Downloads\JWTAuthentication\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.genruntimeconfig.cache
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.deps.json
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.runtimeconfig.json
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.runtimeconfig.dev.json
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.dll
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.pdb
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.csproj.AssemblyReference.cache
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.AssemblyInfoInputs.cache
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.AssemblyInfo.cs
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.csproj.CoreCompileInputs.cache
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorAssemblyInfo.cache
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorAssemblyInfo.cs
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.sourcelink.json
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorTargetAssemblyInfo.cache
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.dll
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.pdb
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.genruntimeconfig.cache
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.deps.json
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.runtimeconfig.json
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.runtimeconfig.dev.json
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.dll
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.pdb
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.csproj.AssemblyReference.cache
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.AssemblyInfoInputs.cache
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.AssemblyInfo.cs
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.csproj.CoreCompileInputs.cache
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorAssemblyInfo.cache
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorAssemblyInfo.cs
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.sourcelink.json
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorTargetAssemblyInfo.cache
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.dll
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.pdb
+D:\Backup\2\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.genruntimeconfig.cache
+D:\Australia Project\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\libman.json
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.csproj.AssemblyReference.cache
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.AssemblyInfoInputs.cache
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.AssemblyInfo.cs
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.csproj.CoreCompileInputs.cache
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorAssemblyInfo.cache
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorAssemblyInfo.cs
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.sourcelink.json
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\libman.json
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.deps.json
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.runtimeconfig.json
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.runtimeconfig.dev.json
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.dll
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\JWTAuthentication.pdb
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\System.Web.ApplicationServices.dll
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\bin\Debug\netcoreapp2.1\System.Web.ApplicationServices.xml
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.RazorTargetAssemblyInfo.cache
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthe.35F8B2AF.Up2Date
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.dll
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.pdb
+D:\Backup\3\Phorne-Teys\JWTAuthentication\JWTAuthentication\obj\Debug\netcoreapp2.1\JWTAuthentication.genruntimeconfig.cache
